@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/WatchCharm/",
+    "build": "vite build --base=/119_html-css_Anastasiia-S-13/",
     "preview": "vite preview"
   },
   "devDependencies": {
